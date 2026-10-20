@@ -51,6 +51,7 @@ each version works on any background color.
 | White | `#FFFFFF` | 255, 255, 255 | 0, 0, 0, 0 |
 
 The CMYK values are converted from RGB. Ask your printer for a proof before a large print run.
+More on the palette and contrast: [colors](../colors.md).
 
 ## Typography
 
@@ -59,6 +60,7 @@ The wordmark reads **CallmakerDialer**: one word, small m, no space. "Callmaker"
 
 The logo files have the text converted to outlines, so no font needs to be installed to use them.
 Urbanist is a free font under the SIL Open Font License: https://fonts.google.com/specimen/Urbanist
+More on typefaces and pairing: [typography](../typography.md).
 
 ## Clear space and minimum size
 
